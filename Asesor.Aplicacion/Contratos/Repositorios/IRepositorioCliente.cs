@@ -7,7 +7,7 @@ using Asesor.Dominio.Entidades;
 
 namespace Asesor.Aplicacion.Contratos.Repositorios
 {
-    public class IRepositorioCliente : IRepositorio<Cliente>
+    public interface IRepositorioCliente : IRepositorio<Cliente>
     {
 
         public Task Actualizar(Cliente entidad)

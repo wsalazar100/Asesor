@@ -10,7 +10,7 @@ namespace Asesor.Dominio.ObjetosValor
     public record Identificacion
     {
         public string Valor { get; } = null!; // es inmutable solo se puede obtener
-
+        private Identificacion() { }
         public Identificacion(string pIdentificacion)
         {
             if (string.IsNullOrWhiteSpace(pIdentificacion))

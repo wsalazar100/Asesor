@@ -16,7 +16,7 @@ namespace Asesor.Dominio.Entidades
         public string Telefono { get; private set; } = null!;
         public string Direccion { get; private set; } = null!;
 
-
+        private Cliente() { }
         public Cliente(string nombre, Identificacion identificacion, CorreoElectronico correo, string telefono, string direccion)
         {
             ValidarParametro(nombre, nameof(nombre));

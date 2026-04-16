@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Asesor.Persistencia.Repositorio
 {
-    public class RepositorioCliente : Repositorio<Cliente>, IRepositorio<Cliente>
+    public class RepositorioCliente :  Repositorio<Cliente>, IRepositorioCliente
     {
         public RepositorioCliente(AsesorDBContext contexto) : base(contexto)
         {

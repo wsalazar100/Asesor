@@ -22,6 +22,7 @@ namespace Asesor.Aplicacion
             servicios.AddTransient<IMediator, MediadorSimple >();
             servicios.AddScoped<IRequestHandler<ComandoCrearCliente, Guid>, CasoCrearCliente>();
             servicios.AddScoped<IRequestHandler<ConsultaObtenerCliente, ClienteDTO>, CasoObtenerCliente>();
+
             // 
             return servicios;
 

@@ -10,6 +10,8 @@ namespace Asesor.Dominio.ObjetosValor
     public record CorreoElectronico
     {
         public string Valor { get; } = null!; // es inmutable solo se puede obtener
+
+        private CorreoElectronico() { }
         public CorreoElectronico(string pCorreoElectronico)
         {
             if (string.IsNullOrEmpty(pCorreoElectronico))
