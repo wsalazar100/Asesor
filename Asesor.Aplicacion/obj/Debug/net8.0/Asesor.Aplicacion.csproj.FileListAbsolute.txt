@@ -1,0 +1,15 @@
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\bin\Debug\net8.0\Asesor.Aplicacion.deps.json
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\bin\Debug\net8.0\Asesor.Aplicacion.dll
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\bin\Debug\net8.0\Asesor.Aplicacion.pdb
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\obj\Debug\net8.0\Asesor.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\obj\Debug\net8.0\Asesor.Aplicacion.AssemblyInfoInputs.cache
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\obj\Debug\net8.0\Asesor.Aplicacion.AssemblyInfo.cs
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\obj\Debug\net8.0\Asesor.Aplicacion.csproj.CoreCompileInputs.cache
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\obj\Debug\net8.0\Asesor.Aplicacion.dll
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\obj\Debug\net8.0\refint\Asesor.Aplicacion.dll
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\obj\Debug\net8.0\Asesor.Aplicacion.pdb
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\obj\Debug\net8.0\ref\Asesor.Aplicacion.dll
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\obj\Debug\net8.0\Asesor.Aplicacion.csproj.AssemblyReference.cache
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\bin\Debug\net8.0\Asesor.Dominio.dll
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\bin\Debug\net8.0\Asesor.Dominio.pdb
+C:\seguros\Solucion\AsesorSolucion\Asesor.Aplicacion\obj\Debug\net8.0\Asesor.A.434A4B24.Up2Date

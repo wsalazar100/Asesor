@@ -1,0 +1,11 @@
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\bin\Debug\net8.0\Asesor.Dominio.deps.json
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\bin\Debug\net8.0\Asesor.Dominio.dll
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\bin\Debug\net8.0\Asesor.Dominio.pdb
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\obj\Debug\net8.0\Asesor.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\obj\Debug\net8.0\Asesor.Dominio.AssemblyInfoInputs.cache
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\obj\Debug\net8.0\Asesor.Dominio.AssemblyInfo.cs
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\obj\Debug\net8.0\Asesor.Dominio.csproj.CoreCompileInputs.cache
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\obj\Debug\net8.0\Asesor.Dominio.dll
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\obj\Debug\net8.0\refint\Asesor.Dominio.dll
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\obj\Debug\net8.0\Asesor.Dominio.pdb
+C:\seguros\Solucion\AsesorSolucion\Asesor.Dominio\obj\Debug\net8.0\ref\Asesor.Dominio.dll

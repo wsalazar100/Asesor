@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/API/" />
+  <Folder Name="/CORE/">
+    <Project Path="Asesor.Aplicacion/Asesor.Aplicacion.csproj" Id="609bce50-ef67-4c17-9140-ce253440f5a9" />
+    <Project Path="Asesor.Dominio/Asesor.Dominio.csproj" Id="a01c37d0-fb67-4065-948a-70dc647f6122" />
+  </Folder>
+  <Folder Name="/INFRAESTRUCTURA/" />
+  <Folder Name="/PRUEBA/">
+    <Project Path="Asesor.pruebas/Asesor.pruebas.csproj" Id="1f57a595-890f-41a8-b5e1-4da92c08d39e" />
+  </Folder>
+</Solution>
