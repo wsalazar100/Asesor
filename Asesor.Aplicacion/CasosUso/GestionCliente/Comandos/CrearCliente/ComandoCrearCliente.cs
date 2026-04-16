@@ -1,4 +1,6 @@
-﻿using Asesor.Dominio.ObjetosValor;
+﻿using Asesor.Aplicacion.Utilidades.Mediador;
+using Asesor.Dominio.ObjetosValor;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Asesor.Aplicacion.CasosUso.GestionCliente.Comandos.CrearCliente
 {
-    public  class ComandoCrearCliente
+    public  class ComandoCrearCliente : IRequest<Guid>
     {
         public required string Nombre { get; set; } = null!;
         public required Identificacion Identificacion { get; set; } = null!;

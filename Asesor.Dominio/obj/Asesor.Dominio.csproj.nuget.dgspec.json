@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.Dominio\\Asesor.Dominio.csproj": {}
+    "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Dominio\\Asesor.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.Dominio\\Asesor.Dominio.csproj": {
+    "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Dominio\\Asesor.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.Dominio\\Asesor.Dominio.csproj",
+        "projectUniqueName": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Dominio\\Asesor.Dominio.csproj",
         "projectName": "Asesor.Dominio",
-        "projectPath": "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.Dominio\\Asesor.Dominio.csproj",
+        "projectPath": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Dominio\\Asesor.Dominio.csproj",
         "packagesPath": "C:\\Users\\soswi\\.nuget\\packages\\",
-        "outputPath": "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.Dominio\\obj\\",
+        "outputPath": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

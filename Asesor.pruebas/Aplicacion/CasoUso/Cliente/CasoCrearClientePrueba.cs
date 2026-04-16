@@ -20,7 +20,6 @@ namespace Asesor.pruebas.Aplicacion.CasoUso.Cliente
     {
         private  IRepositorioCliente repositorio;
         private  IUnidadTrabajo unidadTrabajo;
-        private  IValidator<ComandoCrearCliente> validator;
         private CasoCrearCliente caso;
 
         [TestInitialize]
@@ -30,8 +29,7 @@ namespace Asesor.pruebas.Aplicacion.CasoUso.Cliente
 
             repositorio = Substitute.For<IRepositorioCliente>();
             unidadTrabajo = Substitute.For<IUnidadTrabajo>();
-            validator = Substitute.For<IValidator<ComandoCrearCliente>>();
-            caso = new CasoCrearCliente(repositorio, unidadTrabajo, validator);
+            caso = new CasoCrearCliente(repositorio, unidadTrabajo);
         }
 
         [TestMethod]
@@ -45,8 +43,6 @@ namespace Asesor.pruebas.Aplicacion.CasoUso.Cliente
                 Direccion = "Calle Falsa 123"
             };
 
-            // Devuelve la validación como  exitosa
-            validator.ValidateAsync(comando).Returns(new ValidationResult());
 
             // Simula el comportamiento del repositorio para agregar un cliente
             var nuevoCliente = new Asesor.Dominio.Entidades.Cliente(comando.Nombre, comando.Identificacion, comando.Correo, comando.Telefono, comando.Direccion);
@@ -56,7 +52,6 @@ namespace Asesor.pruebas.Aplicacion.CasoUso.Cliente
             var resultado = await caso.Handle(comando); 
 
             // verificacion
-            await validator.Received(1).ValidateAsync(comando); 
             await repositorio.Received(1).Agregar(Arg.Any<Asesor.Dominio.Entidades.Cliente>());
             await unidadTrabajo.Received(1).Persistir();
             Assert.AreNotEqual(Guid.Empty, resultado); // valida que no sea vacio

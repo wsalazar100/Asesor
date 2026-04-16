@@ -8,34 +8,34 @@ using Asesor.Dominio.Entidades;
 using Asesor.Aplicacion.Contratos.Persistencia;
 using FluentValidation;
 using Asesor.Aplicacion.Excepciones;
+using Asesor.Aplicacion.Utilidades.Mediador;
 namespace Asesor.Aplicacion.CasosUso.GestionCliente.Comandos.CrearCliente
 {
-    public class CasoCrearCliente( IRepositorioCliente repositorio,  IUnidadTrabajo unidadTrabajo, IValidator<ComandoCrearCliente> validador)
+    public class CasoCrearCliente : IRequestHandler<ComandoCrearCliente, Guid>
     {
-        // Coordina la logica de negocio para crear un cliente, se encarga de validar los datos y
-        // llamar al repositorio para guardar el cliente en la base de datos.
-        private readonly IRepositorioCliente repositorio = repositorio;
-        private readonly IUnidadTrabajo unidadTrabajo = unidadTrabajo;
-        public IValidator<ComandoCrearCliente> validador { get; } = validador;
+        private readonly IRepositorioCliente _repositorio;
+        private readonly IUnidadTrabajo _unidadTrabajo;
+        
+
+        public CasoCrearCliente(IRepositorioCliente repositorio, IUnidadTrabajo unidadTrabajo)
+        {
+            this._repositorio = repositorio;
+            this._unidadTrabajo = unidadTrabajo;
+        }
 
         public async Task<Guid> Handle(ComandoCrearCliente comando)
         {
-            var rptaValidacion = await validador.ValidateAsync(comando);
-            if ( !rptaValidacion.IsValid) 
-            {
-                // todos los errores de validacion se devuelvel al cliente
-                throw new ExcepcionValidacion(rptaValidacion);
-            }
+          
             var cliente = new Cliente(comando.Nombre, comando.Identificacion, comando.Correo, comando.Telefono, comando.Direccion);
             try
             {
-                var nuevoCliente = await repositorio.Agregar(cliente);
-                await unidadTrabajo.Persistir();
+                var nuevoCliente = await _repositorio.Agregar(cliente);
+                await _unidadTrabajo.Persistir();
                 return nuevoCliente.Id;
             }
             catch (Exception e)
             {
-                await unidadTrabajo.Reversar();
+                await _unidadTrabajo.Reversar();
                 throw;
             }
         }

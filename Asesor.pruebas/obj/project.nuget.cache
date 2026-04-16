@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QGB9qixL5n0=",
+  "dgSpecHash": "/9NBZhsgulE=",
   "success": true,
-  "projectFilePath": "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.pruebas\\Asesor.pruebas.csproj",
+  "projectFilePath": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.pruebas\\Asesor.pruebas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\soswi\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\soswi\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",

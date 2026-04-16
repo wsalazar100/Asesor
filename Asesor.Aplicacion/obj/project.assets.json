@@ -120,11 +120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
+      "projectUniqueName": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
       "projectName": "Asesor.Aplicacion",
-      "projectPath": "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
+      "projectPath": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
       "packagesPath": "C:\\Users\\soswi\\.nuget\\packages\\",
-      "outputPath": "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.Aplicacion\\obj\\",
+      "outputPath": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -146,8 +146,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.Dominio\\Asesor.Dominio.csproj": {
-              "projectPath": "C:\\seguros\\Solucion\\AsesorSolucion\\Asesor.Dominio\\Asesor.Dominio.csproj"
+            "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Dominio\\Asesor.Dominio.csproj": {
+              "projectPath": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Dominio\\Asesor.Dominio.csproj"
             }
           }
         }
