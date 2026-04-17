@@ -12,7 +12,8 @@ namespace Asesor.Aplicacion.CasosUso.GestionCliente.Comandos.CrearCliente
         public ValidadorComandoCrearCliente()
         {
             RuleFor(p => p.Nombre)
-                .NotEmpty().WithMessage("El nombre es requerido");
+                .NotEmpty().WithMessage("El nombre es requerido")
+                .Matches(@"^[a-zA-ZáéíóúÁÉÍÓÚñÑ\s]+$").WithMessage("El nombre no debe contener números ni caracteres especiales");
 
             RuleFor(p => p.Identificacion)
                 .NotEmpty().WithMessage("La identificación es requerida")

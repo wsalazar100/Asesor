@@ -1,9 +1,17 @@
-@Asesor.API_HostAddress = http://localhost:5109/api/cliente
+ @Asesor.API_HostAddress = http://localhost:5109/api/cliente
+ # @Asesor.API_HostAddress = https://asesorapi.azurewebsites.net/api/cliente
 
-GET {{Asesor.API_HostAddress}}/i70B3DC1-EEC5-46A4-B2D9-593B3780356C
+GET {{Asesor.API_HostAddress}}/E70B3DC1-EEC5-46A4-B2D9-593B3780356C
 Accept: application/json
 
 ###
+
+
+GET {{Asesor.API_HostAddress}}/
+Accept: application/json
+
+###
+
 
 POST {{Asesor.API_HostAddress}}
 Content-Type: application/json
@@ -15,3 +23,23 @@ Content-Type: application/json
   "Telefono": "555-1234",
   "Direccion": "Calle 123 #45-67"
 }
+
+###
+
+
+PUT {{Asesor.API_HostAddress}}/E70B3DC1-EEC5-46A4-B2D9-593B3780356C
+Content-Type: application/json
+
+{
+  "Nombre": "Juan Perez...",
+  "Identificacion": "1001828845",
+  "Correo": "soswilo@gmail.com",
+  "Telefono": "555-1234",
+  "Direccion": "Calle 123 #45-67"
+}
+
+
+
+###
+DELETE {{Asesor.API_HostAddress}}/E70B3DC1-EEC5-46A4-B2D9-593B3780356C
+Accept: application/json

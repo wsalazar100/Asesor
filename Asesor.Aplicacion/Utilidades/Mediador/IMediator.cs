@@ -9,6 +9,13 @@ namespace Asesor.Aplicacion.Utilidades.Mediador
     public  interface IMediator
     {
         Task<TResponse> Send<TResponse>(IRequest<TResponse> request);
+
+        // No retorna nada
+        Task Send<TResponse>(IRequest request);
+
+
+
+
     }
 
 

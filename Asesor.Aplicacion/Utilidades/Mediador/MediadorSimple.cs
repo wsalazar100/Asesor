@@ -19,7 +19,42 @@ namespace Asesor.Aplicacion.Utilidades.Mediador
         }
         public async Task<TResponse> Send<TResponse>(IRequest<TResponse> request)
         {
-            // se realizan las validacion en el Mediador para relizar de manera centralizada
+
+            await RealizarValidacion(request);
+
+            var tipoCasoUso = typeof(IRequestHandler<,>).MakeGenericType(request.GetType(), typeof(TResponse));
+            var casoUso = _serviceProvider.GetService(tipoCasoUso);
+            if (casoUso == null)
+            {
+                throw new ExcepcionMediador($"No se encontró un caso de uso para el tipo de solicitud {request.GetType().Name}");
+            }
+
+            // Referencia al metodo Handle del caso de uso, que es el encargado de ejecutar la logica de negocio para procesar la solicitud.
+            var metodo = tipoCasoUso.GetMethod("Handle");
+            return await (Task<TResponse>)metodo.Invoke(casoUso, new object[] { request })!;
+
+        }
+
+        // No retorna nada porque es para solicitudes que no esperan una respuesta, como comandos que solo ejecutan una acción sin devolver datos.
+        public async Task Send<TResponse>(IRequest request)
+        {
+            await RealizarValidacion(request);
+
+            var tipoCasoUso = typeof(IRequestHandler<>).MakeGenericType(request.GetType());
+            var casoUso = _serviceProvider.GetService(tipoCasoUso);
+            if (casoUso is null)
+            {
+                throw new ExcepcionMediador($"No se encontró un caso de uso para el tipo de solicitud {request.GetType().Name}");
+
+            }
+            var metodo = tipoCasoUso.GetMethod("Handle");
+            await (Task)metodo.Invoke(casoUso, new object[] { request })!;
+
+        }
+
+        private async Task RealizarValidacion(object request) 
+        {
+
             var tipoValidador = typeof(IValidator<>).MakeGenericType(request.GetType());
             var validador = _serviceProvider.GetService(tipoValidador) as IValidator;
             if (validador != null)
@@ -39,16 +74,6 @@ namespace Asesor.Aplicacion.Utilidades.Mediador
             }
 
 
-            var tipoCasoUso = typeof(IRequestHandler<,>).MakeGenericType(request.GetType(), typeof(TResponse));
-            var casoUso = _serviceProvider.GetService(tipoCasoUso);
-            if (casoUso == null)
-            {
-                throw new ExcepcionMediador($"No se encontró un caso de uso para el tipo de solicitud {request.GetType().Name}");
-            }
-
-            // Referencia al metodo Handle del caso de uso, que es el encargado de ejecutar la logica de negocio para procesar la solicitud.
-            var metodo = tipoCasoUso.GetMethod("Handle");
-            return await (Task<TResponse>)metodo.Invoke(casoUso, new object[] { request });
 
         }
     }

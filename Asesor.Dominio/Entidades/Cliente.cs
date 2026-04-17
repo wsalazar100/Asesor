@@ -33,6 +33,20 @@ namespace Asesor.Dominio.Entidades
             Direccion = direccion.Trim();
         }
 
+
+        public void Actualizar(string nombre, Identificacion identificacion, CorreoElectronico correo, string telefono, string direccion)
+        {
+            ValidarParametro(nombre, nameof(nombre));
+            ValidarParametro(telefono, nameof(telefono));
+            ValidarParametro(direccion, nameof(direccion));
+            
+            Nombre = nombre.Trim();
+            Identificacion = identificacion;
+            Correo = correo;
+            Telefono = telefono.Trim();
+            Direccion = direccion.Trim();
+        }
+
         private static void ValidarParametro(string pValor, string pNombre)
         {
             if (string.IsNullOrWhiteSpace(pValor))

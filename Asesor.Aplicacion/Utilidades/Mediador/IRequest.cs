@@ -10,4 +10,11 @@ namespace Asesor.Aplicacion.Utilidades.Mediador
     {
 
     }
+    // No retorna nada
+    public interface IRequest
+    {
+
+    }
+
+
 }
