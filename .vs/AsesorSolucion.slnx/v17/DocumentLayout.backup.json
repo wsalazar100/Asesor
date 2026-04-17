@@ -523,7 +523,7 @@
         },
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -553,15 +553,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CasoBorrarCliente.cs",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
-              "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
-              "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:23:05.878Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Asesor.API\\appsettings.Development.json",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.Development.json",
+              "RelativeToolTip": "Asesor.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T21:27:59.358Z",
               "EditorCaption": ""
             },
             {
@@ -579,15 +579,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Asesor.API\\appsettings.Development.json",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.Development.json",
-              "RelativeToolTip": "Asesor.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-16T21:27:59.358Z",
+              "DocumentIndex": 6,
+              "Title": "CasoBorrarCliente.cs",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
+              "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
+              "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:23:05.878Z",
               "EditorCaption": ""
             },
             {
