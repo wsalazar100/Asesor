@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\cliente.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\cliente.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
@@ -33,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\crearcliente\\comandocrearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|solutionrelative:asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\crearcliente\\comandocrearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\dtos\\cliente\\actualizaclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -261,25 +261,33 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 245,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 190,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Cliente.http",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Cliente.http",
               "RelativeDocumentMoniker": "Asesor.API\\Cliente.http",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Cliente.http",
               "RelativeToolTip": "Asesor.API\\Cliente.http",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-04-16T23:09:20.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ExcepcionNoEncontrado.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Excepciones\\ExcepcionNoEncontrado.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\Excepciones\\ExcepcionNoEncontrado.cs",
@@ -289,14 +297,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T18:39:33.375Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
@@ -522,12 +522,38 @@
           ]
         },
         {
-          "DockedWidth": 155,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 210,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Asesor.API\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Asesor.API\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAewFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T23:00:25.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Asesor.API\\appsettings.json",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.json",
+              "RelativeToolTip": "Asesor.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T21:28:00.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CasoBorrarCliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
@@ -540,33 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegistraServiciosDeAplicacion.cs",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
-              "RelativeDocumentMoniker": "Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
-              "RelativeToolTip": "Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:52:36.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Asesor.API\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Asesor.API\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAnwF0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T23:00:25.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ComandoBorrarCliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\ComandoBorrarCliente.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\ComandoBorrarCliente.cs",
@@ -579,20 +579,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Asesor.API\\appsettings.Development.json",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.Development.json",
               "RelativeToolTip": "Asesor.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-16T21:27:59.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "RegistraServiciosDeAplicacion.cs",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
+              "RelativeDocumentMoniker": "Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
+              "RelativeToolTip": "Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:52:36.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ComandoCrearCliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ComandoCrearCliente.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ComandoCrearCliente.cs",
@@ -605,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CasoCrearCliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\CasoCrearCliente.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\CasoCrearCliente.cs",
@@ -627,19 +640,6 @@
               "ViewState": "AgIAABEAAAAAAAAAAAA6wBkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T07:44:13.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Asesor.API\\appsettings.json",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.json",
-              "RelativeToolTip": "Asesor.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-16T21:28:00.989Z",
               "EditorCaption": ""
             },
             {
