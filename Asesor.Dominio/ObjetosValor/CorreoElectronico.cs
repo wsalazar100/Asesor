@@ -24,6 +24,8 @@ namespace Asesor.Dominio.ObjetosValor
                 throw new ExcepcionReglaNegocio($"El {nameof(pCorreoElectronico)} debe contener el símbolo '@'.");
             }
 
+            Valor = pCorreoElectronico;
+
 
 
         }

@@ -1,4 +1,5 @@
 
+using Asesor.API.Midlewares;
 using Asesor.Aplicacion;
 using Asesor.Persistencia;
 
@@ -13,6 +14,9 @@ builder.Services.AgregarServiciosDePersistencia();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+
+// Manejador de excepciones personalizado y centralizado para toda la aplicación, que captura cualquier excepción no controlada y devuelve una respuesta de error adecuada al cliente.
+app.UseManejadorExcepciones();
 
 app.UseHttpsRedirection();
 

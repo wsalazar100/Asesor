@@ -1,0 +1,17 @@
+@Asesor.API_HostAddress = http://localhost:5109/api/cliente
+
+GET {{Asesor.API_HostAddress}}/i70B3DC1-EEC5-46A4-B2D9-593B3780356C
+Accept: application/json
+
+###
+
+POST {{Asesor.API_HostAddress}}
+Content-Type: application/json
+
+{
+  "Nombre": "Juan Perez",
+  "Identificacion": "1001828845",
+  "Correo": "soswilo@gmail.com",
+  "Telefono": "555-1234",
+  "Direccion": "Calle 123 #45-67"
+}
