@@ -261,7 +261,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 343,
+          "DockedWidth": 276,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -522,7 +522,7 @@
           ]
         },
         {
-          "DockedWidth": 57,
+          "DockedWidth": 124,
           "SelectedChildIndex": 0,
           "Children": [
             {
