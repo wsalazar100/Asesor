@@ -3,28 +3,39 @@
   "WorkspaceRootPath": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\asesor.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\asesor.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\crearcliente\\casocrearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|solutionrelative:asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\crearcliente\\casocrearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\crearcliente\\comandocrearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|solutionrelative:asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\crearcliente\\comandocrearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\cliente.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\cliente.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.aplicacion\\asesor.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|solutionrelative:asesor.aplicacion\\asesor.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.aplicacion\\asesor.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|solutionrelative:asesor.aplicacion\\asesor.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\asesor.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\asesor.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,14 +56,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\borrarcliente\\comandoborrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|solutionrelative:asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\borrarcliente\\comandoborrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\crearcliente\\casocrearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|solutionrelative:asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\crearcliente\\casocrearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\crearcliente\\comandocrearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{609BCE50-EF67-4C17-9140-CE253440F5A9}|Asesor.Aplicacion\\Asesor.Aplicacion.csproj|solutionrelative:asesor.aplicacion\\casosuso\\gestioncliente\\comandos\\crearcliente\\comandocrearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\dtos\\cliente\\actualizaclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,10 +132,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1F57A595-890F-41A8-B5E1-4DA92C08D39E}|Asesor.pruebas\\Asesor.pruebas.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.pruebas\\asesor.pruebas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1F57A595-890F-41A8-B5E1-4DA92C08D39E}|Asesor.pruebas\\Asesor.pruebas.csproj|solutionrelative:asesor.pruebas\\asesor.pruebas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|solutionrelative:asesor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69EE1B51-C257-4124-9615-DD1194AFABA8}|Asesor.API\\Asesor.API.csproj|c:\\seguros\\solucion\\asesorfinal\\asesor\\asesor.api\\midlewares\\manejadorexcepcionesmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -265,46 +264,46 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 335,
+          "DockedWidth": 72,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Asesor.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Properties\\launchSettings.json*",
-              "RelativeToolTip": "Asesor.API\\Properties\\launchSettings.json*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-17T21:12:07.355Z",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANgTAAAAAAAAAAAAwOQTAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-17T21:02:01.368Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.http",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Cliente.http",
+              "RelativeDocumentMoniker": "Asesor.API\\Cliente.http",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Cliente.http",
+              "RelativeToolTip": "Asesor.API\\Cliente.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-16T23:09:20.345Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cliente.http",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Cliente.http",
-              "RelativeDocumentMoniker": "Asesor.API\\Cliente.http",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Cliente.http",
-              "RelativeToolTip": "Asesor.API\\Cliente.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-04-16T23:09:20.345Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ExcepcionNoEncontrado.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Excepciones\\ExcepcionNoEncontrado.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\Excepciones\\ExcepcionNoEncontrado.cs",
@@ -312,11 +311,12 @@
               "RelativeToolTip": "Asesor.Aplicacion\\Excepciones\\ExcepcionNoEncontrado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:39:33.375Z"
+              "WhenOpened": "2026-04-16T18:39:33.375Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Dominio\\Entidades\\Cliente.cs",
               "RelativeDocumentMoniker": "Asesor.Dominio\\Entidades\\Cliente.cs",
@@ -329,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "MapeadorExtension.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ObtenerCliente\\MapeadorExtension.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ObtenerCliente\\MapeadorExtension.cs",
@@ -337,11 +337,12 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ObtenerCliente\\MapeadorExtension.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:47:30.16Z"
+              "WhenOpened": "2026-04-16T18:47:30.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Asesor.pruebas.csproj",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.pruebas\\Asesor.pruebas.csproj",
               "RelativeDocumentMoniker": "Asesor.pruebas\\Asesor.pruebas.csproj",
@@ -362,7 +363,8 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ObtenerCliente\\CasoObtenerCliente.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAADwvwwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:35:19.666Z"
+              "WhenOpened": "2026-04-16T18:35:19.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -374,7 +376,8 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ObtenerCliente\\ConsultaObtenerCliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:30:35.996Z"
+              "WhenOpened": "2026-04-16T18:30:35.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -386,7 +389,8 @@
               "RelativeToolTip": "Asesor.Aplicacion\\Contratos\\Repositorios\\IRepositorioCliente.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAhwAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:14:41.592Z"
+              "WhenOpened": "2026-04-16T15:14:41.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -411,7 +415,8 @@
               "RelativeToolTip": "Asesor.Dominio\\ObjetosValor\\Identificacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:08:38.842Z"
+              "WhenOpened": "2026-04-16T14:08:38.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -421,9 +426,10 @@
               "RelativeDocumentMoniker": "Asesor.Persistencia\\AsesorDBContext.cs",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Persistencia\\AsesorDBContext.cs",
               "RelativeToolTip": "Asesor.Persistencia\\AsesorDBContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBMwAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T19:52:55.324Z"
+              "WhenOpened": "2026-04-16T19:52:55.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -448,7 +454,8 @@
               "RelativeToolTip": "Asesor.pruebas\\Dominio\\Entidades\\EntidadPoliza.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAMBXwA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:18:07.898Z"
+              "WhenOpened": "2026-04-16T14:18:07.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -460,7 +467,8 @@
               "RelativeToolTip": "Asesor.Dominio\\ObjetosValor\\PeriodoVigencia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T13:33:27.775Z"
+              "WhenOpened": "2026-04-16T13:33:27.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -472,7 +480,8 @@
               "RelativeToolTip": "Asesor.pruebas\\Dominio\\ObjetosValor\\PeriodoVigenciaPrueba.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T13:51:17.502Z"
+              "WhenOpened": "2026-04-16T13:51:17.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -484,7 +493,8 @@
               "RelativeToolTip": "Asesor.Dominio\\ObjetosValor\\MontoPositivo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T13:28:33.209Z"
+              "WhenOpened": "2026-04-16T13:28:33.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -496,7 +506,8 @@
               "RelativeToolTip": "Asesor.Dominio\\Excepciones\\ExcepcionReglaNegocio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAApwBsAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:15:04.854Z"
+              "WhenOpened": "2026-04-16T12:15:04.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -508,7 +519,8 @@
               "RelativeToolTip": "Asesor.Dominio\\Enumerados\\TipoPolizaEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:03:42.758Z"
+              "WhenOpened": "2026-04-16T12:03:42.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -520,69 +532,57 @@
               "RelativeToolTip": "Asesor.Dominio\\Enumerados\\EstadoPolizaEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:06:33.646Z"
+              "WhenOpened": "2026-04-16T12:06:33.646Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 65,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 328,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Asesor.API\\appsettings.json",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.json",
-              "RelativeToolTip": "Asesor.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-16T21:28:00.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Asesor.API\\appsettings.Development.json",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.Development.json",
-              "RelativeToolTip": "Asesor.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-16T21:27:59.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Asesor.Aplicacion.csproj",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
-              "RelativeDocumentMoniker": "Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
-              "RelativeToolTip": "Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-16T15:10:40.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Asesor.API.csproj",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Asesor.API.csproj",
               "RelativeDocumentMoniker": "Asesor.API\\Asesor.API.csproj",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Asesor.API.csproj",
               "RelativeToolTip": "Asesor.API\\Asesor.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-16T21:24:01.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "ComandoCrearCliente.cs",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ComandoCrearCliente.cs",
+              "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ComandoCrearCliente.cs",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ComandoCrearCliente.cs",
+              "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ComandoCrearCliente.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAD4vxUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:02:50.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Program.cs",
+              "RelativeDocumentMoniker": "Asesor.API\\Program.cs",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Program.cs",
+              "RelativeToolTip": "Asesor.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T21:24:21.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Asesor.API\\Controllers\\ClienteController.cs",
@@ -595,7 +595,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Asesor.API\\appsettings.json",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.json",
+              "RelativeToolTip": "Asesor.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T21:28:00.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CasoCrearCliente.cs",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\CasoCrearCliente.cs",
+              "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\CasoCrearCliente.cs",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\CasoCrearCliente.cs",
+              "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\CasoCrearCliente.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:04:16.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Asesor.API\\appsettings.Development.json",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\appsettings.Development.json",
+              "RelativeToolTip": "Asesor.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T21:27:59.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asesor.Aplicacion.csproj",
+              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
+              "RelativeDocumentMoniker": "Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
+              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
+              "RelativeToolTip": "Asesor.Aplicacion\\Asesor.Aplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T15:10:40.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ComandoBorrarCliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\ComandoBorrarCliente.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\ComandoBorrarCliente.cs",
@@ -603,72 +655,51 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\ComandoBorrarCliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:20:40.416Z"
+              "WhenOpened": "2026-04-17T08:20:40.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CasoBorrarCliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\BorrarCliente\\CasoBorrarCliente.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBMwBYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:23:05.878Z"
+              "WhenOpened": "2026-04-17T08:23:05.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "RegistraServiciosDeAplicacion.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
               "RelativeToolTip": "Asesor.Aplicacion\\RegistraServiciosDeAplicacion.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBMwBsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:52:36.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ComandoCrearCliente.cs",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ComandoCrearCliente.cs",
-              "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ComandoCrearCliente.cs",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ComandoCrearCliente.cs",
-              "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ComandoCrearCliente.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:02:50.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CasoCrearCliente.cs",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\CasoCrearCliente.cs",
-              "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\CasoCrearCliente.cs",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\CasoCrearCliente.cs",
-              "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\CasoCrearCliente.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAhwCAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:04:16.123Z",
+              "WhenOpened": "2026-04-16T18:52:36.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CasoActualizarCliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\ActualizarCliente\\CasoActualizarCliente.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\ActualizarCliente\\CasoActualizarCliente.cs",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\ActualizarCliente\\CasoActualizarCliente.cs",
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\ActualizarCliente\\CasoActualizarCliente.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA6wBkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwBkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T07:44:13.529Z"
+              "WhenOpened": "2026-04-17T07:44:13.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ActualizaClienteDTO.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\DTOs\\Cliente\\ActualizaClienteDTO.cs",
               "RelativeDocumentMoniker": "Asesor.API\\DTOs\\Cliente\\ActualizaClienteDTO.cs",
@@ -676,11 +707,12 @@
               "RelativeToolTip": "Asesor.API\\DTOs\\Cliente\\ActualizaClienteDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:03:41.981Z"
+              "WhenOpened": "2026-04-17T08:03:41.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MediadorSimple.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Utilidades\\Mediador\\MediadorSimple.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\Utilidades\\Mediador\\MediadorSimple.cs",
@@ -688,35 +720,38 @@
               "RelativeToolTip": "Asesor.Aplicacion\\Utilidades\\Mediador\\MediadorSimple.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAxwDIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T17:36:36.49Z"
+              "WhenOpened": "2026-04-16T17:36:36.49Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Repositorio.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Persistencia\\Repositorio\\Repositorio.cs",
               "RelativeDocumentMoniker": "Asesor.Persistencia\\Repositorio\\Repositorio.cs",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Persistencia\\Repositorio\\Repositorio.cs",
               "RelativeToolTip": "Asesor.Persistencia\\Repositorio\\Repositorio.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAhwCUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAIA3wCUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T20:16:47.454Z"
+              "WhenOpened": "2026-04-16T20:16:47.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ClientesDTO.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\DTOs\\Cliente\\ClientesDTO.cs",
               "RelativeDocumentMoniker": "Asesor.API\\DTOs\\Cliente\\ClientesDTO.cs",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\DTOs\\Cliente\\ClientesDTO.cs",
               "RelativeToolTip": "Asesor.API\\DTOs\\Cliente\\ClientesDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBMwBMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T23:44:24.084Z"
+              "WhenOpened": "2026-04-16T23:44:24.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ValidadorComandoActualizarCliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\ActualizarCliente\\ValidadorComandoActualizarCliente.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\ActualizarCliente\\ValidadorComandoActualizarCliente.cs",
@@ -724,23 +759,25 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\ActualizarCliente\\ValidadorComandoActualizarCliente.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAxwA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T07:32:05.875Z"
+              "WhenOpened": "2026-04-17T07:32:05.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ValidadorComandoCrearCliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ValidadorComandoCrearCliente.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ValidadorComandoCrearCliente.cs",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ValidadorComandoCrearCliente.cs",
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\CrearCliente\\ValidadorComandoCrearCliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBMwB8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:42:38.976Z"
+              "WhenOpened": "2026-04-16T15:42:38.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ComandoActualizarCliente.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\ActualizarCliente\\ComandoActualizarCliente.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\ActualizarCliente\\ComandoActualizarCliente.cs",
@@ -748,11 +785,12 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Comandos\\ActualizarCliente\\ComandoActualizarCliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T07:29:55.046Z"
+              "WhenOpened": "2026-04-17T07:29:55.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IMediator.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Utilidades\\Mediador\\IMediator.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\Utilidades\\Mediador\\IMediator.cs",
@@ -760,11 +798,12 @@
               "RelativeToolTip": "Asesor.Aplicacion\\Utilidades\\Mediador\\IMediator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T17:29:03.174Z"
+              "WhenOpened": "2026-04-16T17:29:03.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IRequestHandler.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Utilidades\\Mediador\\IRequestHandler.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\Utilidades\\Mediador\\IRequestHandler.cs",
@@ -772,11 +811,12 @@
               "RelativeToolTip": "Asesor.Aplicacion\\Utilidades\\Mediador\\IRequestHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T17:31:24.823Z"
+              "WhenOpened": "2026-04-16T17:31:24.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IRequest.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\Utilidades\\Mediador\\IRequest.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\Utilidades\\Mediador\\IRequest.cs",
@@ -784,11 +824,12 @@
               "RelativeToolTip": "Asesor.Aplicacion\\Utilidades\\Mediador\\IRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T17:26:22.331Z"
+              "WhenOpened": "2026-04-16T17:26:22.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ClienteListadoDTO.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\ClienteListadoDTO.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\ClienteListadoDTO.cs",
@@ -796,11 +837,12 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\ClienteListadoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T06:41:04.486Z"
+              "WhenOpened": "2026-04-17T06:41:04.486Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CasoObtenerClienteListado.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\CasoObtenerClienteListado.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\CasoObtenerClienteListado.cs",
@@ -808,11 +850,12 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\CasoObtenerClienteListado.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAkwAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T06:51:21.299Z"
+              "WhenOpened": "2026-04-17T06:51:21.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ConsultaObtenerClienteListado.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\ConsultaObtenerClienteListado.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\ConsultaObtenerClienteListado.cs",
@@ -820,11 +863,12 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\ConsultaObtenerClienteListado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T06:48:34.148Z"
+              "WhenOpened": "2026-04-17T06:48:34.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "MapeadorExtension.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\MapeadorExtension.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\MapeadorExtension.cs",
@@ -832,11 +876,12 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ListarClientes\\MapeadorExtension.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAwA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T06:43:36.96Z"
+              "WhenOpened": "2026-04-17T06:43:36.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ClienteDTO.cs",
               "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ObtenerCliente\\ClienteDTO.cs",
               "RelativeDocumentMoniker": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ObtenerCliente\\ClienteDTO.cs",
@@ -844,7 +889,8 @@
               "RelativeToolTip": "Asesor.Aplicacion\\CasosUso\\GestionCliente\\Consultas\\ObtenerCliente\\ClienteDTO.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAzwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:32:33.945Z"
+              "WhenOpened": "2026-04-16T18:32:33.945Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -856,7 +902,8 @@
               "RelativeToolTip": "Asesor.Persistencia\\Migrations\\20260417004426_NuevaTablaClienteAzure2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T00:44:26.203Z"
+              "WhenOpened": "2026-04-17T00:44:26.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -868,7 +915,8 @@
               "RelativeToolTip": "Asesor.Persistencia\\Migrations\\20260417004047_NuevaTablaClienteAzure.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T00:40:47.418Z"
+              "WhenOpened": "2026-04-17T00:40:47.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -880,19 +928,8 @@
               "RelativeToolTip": "Asesor.Aplicacion\\Excepciones\\ExcepcionValidacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:56:42.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Program.cs",
-              "RelativeDocumentMoniker": "Asesor.API\\Program.cs",
-              "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.API\\Program.cs",
-              "RelativeToolTip": "Asesor.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T21:24:21.696Z"
+              "WhenOpened": "2026-04-16T15:56:42.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -904,7 +941,8 @@
               "RelativeToolTip": "Asesor.API\\Midlewares\\ManejadorExcepcionesMiddleware.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAgwDYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T23:46:03.028Z"
+              "WhenOpened": "2026-04-16T23:46:03.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -914,7 +952,7 @@
               "RelativeDocumentMoniker": "Asesor.Dominio\\ObjetosValor\\CorreoElectronico.cs",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Dominio\\ObjetosValor\\CorreoElectronico.cs",
               "RelativeToolTip": "Asesor.Dominio\\ObjetosValor\\CorreoElectronico.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBMwA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T14:08:15.728Z",
               "EditorCaption": ""
@@ -929,7 +967,8 @@
               "RelativeToolTip": "Asesor.Persistencia\\Migrations\\20260416224911_NuevaTablaCliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T22:49:11.285Z"
+              "WhenOpened": "2026-04-16T22:49:11.285Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -941,7 +980,8 @@
               "RelativeToolTip": "Asesor.Persistencia\\Repositorio\\RepositorioCliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T20:37:21.132Z"
+              "WhenOpened": "2026-04-16T20:37:21.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -953,7 +993,8 @@
               "RelativeToolTip": "Asesor.Aplicacion\\Contratos\\Repositorios\\IRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:11:15.46Z"
+              "WhenOpened": "2026-04-16T15:11:15.46Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -965,7 +1006,8 @@
               "RelativeToolTip": "Asesor.Persistencia\\RegistroServiciosDePersistencia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAowBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T20:00:53.225Z"
+              "WhenOpened": "2026-04-16T20:00:53.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -988,9 +1030,10 @@
               "RelativeDocumentMoniker": "Asesor.Persistencia\\Configuracion\\ClienteConfig.cs",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.Persistencia\\Configuracion\\ClienteConfig.cs",
               "RelativeToolTip": "Asesor.Persistencia\\Configuracion\\ClienteConfig.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBMwBYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T20:08:18.406Z"
+              "WhenOpened": "2026-04-16T20:08:18.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1002,7 +1045,8 @@
               "RelativeToolTip": "Asesor.Persistencia\\UnidadTrabajo\\UnidadTrabajoEFCore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T20:53:13.931Z"
+              "WhenOpened": "2026-04-16T20:53:13.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1014,7 +1058,8 @@
               "RelativeToolTip": "Asesor.Aplicacion\\Excepciones\\ExcepcionMediador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T17:34:32.959Z"
+              "WhenOpened": "2026-04-16T17:34:32.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1026,7 +1071,8 @@
               "RelativeToolTip": "Asesor.Aplicacion\\Contratos\\Persistencia\\IUnidadTrabajo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:33:49.768Z"
+              "WhenOpened": "2026-04-16T15:33:49.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1038,7 +1084,8 @@
               "RelativeToolTip": "Asesor.Dominio\\Entidades\\Poliza.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T11:50:18.262Z"
+              "WhenOpened": "2026-04-16T11:50:18.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1048,9 +1095,10 @@
               "RelativeDocumentMoniker": "Asesor.pruebas\\Dominio\\Entidades\\EntidadCliente.cs",
               "ToolTip": "C:\\seguros\\Solucion\\AsesorFinal\\Asesor\\Asesor.pruebas\\Dominio\\Entidades\\EntidadCliente.cs",
               "RelativeToolTip": "Asesor.pruebas\\Dominio\\Entidades\\EntidadCliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBcwBIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAGBlwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T13:58:41.432Z"
+              "WhenOpened": "2026-04-16T13:58:41.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1062,7 +1110,8 @@
               "RelativeToolTip": "Asesor.pruebas\\Dominio\\ObjetosValor\\CorreoElectronicoPrueba.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAIwBMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T13:41:24.976Z"
+              "WhenOpened": "2026-04-16T13:41:24.976Z",
+              "EditorCaption": ""
             }
           ]
         }
